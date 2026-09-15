@@ -47,7 +47,7 @@ Zelizer's account of **The Earth Is the Lord's** places Heschel's evocation of E
 
 **The prophets:** Zelizer's discussion of The Prophets emphasizes sympathy with God and humanity, the scandal of normalized injustice, and the difference between direct guilt and wider responsibility. A claim that people share responsibility is not a claim that every individual caused the wrong. Conversely, personal innocence does not settle what someone should do in the presence of injustice.
 
-Locators: “New York City,” L551–571, L581–599, L623–639, L771–783. Accounts of these theological works are mediated by Zelizer; fuller exegesis should load the primary works if supplied later.
+Locators: “New York City,” L551–571, L581–599, L623–639, L771–783. Accounts of these theological works are mediated by Zelizer; fuller exegesis should load the two primary works linked below.
 
 ### Selma: embodied religious action depends on other people
 
@@ -98,3 +98,7 @@ Locator: “Legacy,” L1372–1388.
 3. Religious activism is historically situated and organizationally supported.
 4. Admiration need not erase exclusions, romanticization, or difficult political commitments.
 5. The success of the companion's application belongs in the user's renewed engagement with the world, not in the elegance of a quotation.
+
+## Related primary works now available
+
+For Heschel’s sustained theology, use [Man Is Not Alone](reference-heschel-man-is-not-alone.md) and [God in Search of Man](reference-heschel-god-in-search-of-man.md). This biography retains its separate role for historical context, institutions, action, and Zelizer’s interpretation.

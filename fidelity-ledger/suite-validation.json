@@ -1,8 +1,20 @@
 {
   "status": "pass",
-  "task_counts": {
-    "development": 4,
-    "final": 4
-  },
-  "scope": "Schema and partition checks only; behavioral execution remains unrun"
+  "scope": "Actual schema and partition checks only; behavioral execution remains unrun",
+  "suites": {
+    "acceptance-suite.json": {
+      "task_counts": {
+        "development": 4,
+        "final": 4
+      },
+      "suite_hash": "sha256:49de66c6711acb9465abf179390178d8cc75996e2fba19ecd57bbbf66ec3ec0b"
+    },
+    "spiritual-guide-acceptance-suite.json": {
+      "task_counts": {
+        "development": 4,
+        "final": 4
+      },
+      "suite_hash": "sha256:210b5935f7eb43b7817ea482eeb1ade08ce3eedee87809e1a622f7ec8a274496"
+    }
+  }
 }

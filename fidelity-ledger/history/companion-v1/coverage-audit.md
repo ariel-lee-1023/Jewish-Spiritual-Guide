@@ -20,26 +20,3 @@ The library deliberately omits detailed medieval physics, comprehensive halakhic
 ## Expenditure review
 
 The emitted-token estimate crossed the 4× output-budget review threshold for Speech and Silence (45,195 versus 31,200) and Cohen (45,672 versus 41,344). Much of this is unique source material, with 59 and 50 repeated source lines respectively; the threshold is not evidence of whole-book rereading. Long OCR lines and early clipped output made the first source particularly inefficient. Reading stopped after bounded qualification checks; no further broad rereads were used to fill output budgets. Actual inspected tokens and provider billing remain unavailable.
-
-
-## Heschel primary-source revision — 2026-09-15
-
-Two additional spans per new source were inspected after the initial selection. This is a same-author fidelity audit, not an independent evaluation.
-
-| Source and added span | Question | Result retained |
-|---|---|---|
-| Man Is Not Alone, ch. 18, L887–908 | Are felt needs sufficient norms? | Desire can be manufactured; justice does not reduce to a majority's interests. Balance with ch. 25's legitimate embodied needs. |
-| Man Is Not Alone, ch. 22, L1109–1149 | Does religion authorize magical control? | Religion answers a claim beyond personal satisfaction; the storm's helmsman must act with practical means. |
-| God in Search of Man, ch. 38, L3814–3858 | Does mixed motivation establish that integrity is impossible? | Exposes ego before, during, and after deeds while rejecting universal suspicion. |
-| God in Search of Man, ch. 39, L3896–3937 | Does self-transcendence demand self-erasure? | Self-effacement is not intrinsically virtuous; one's own rights and needs matter alongside those of others. |
-
-### Counterexamples retained in the redesign
-
-- Man Is Not Alone, ch. 26, L1391–1434: the pious portrait's harsh judgment of grief remains attributed to Heschel. The guide explicitly follows Wolpe in grief counsel.
-- Man Is Not Alone, ch. 17, L807–834: the collective atoning interpretation of Israel's suffering is retained as a source difficulty, not applied to a user's illness.
-- God in Search of Man, ch. 27, L2779–2824: moral criticism of harsh scripture coexists with strong theological contextualization. The guide's evidence rule is separately adopted.
-- God in Search of Man, ch. 43, L4127–4178: Jewish peoplehood, the land of Israel, and post-Holocaust urgency are retained; the book is not a current policy authority.
-
-### Reading limits
-
-Both complete books were extracted, their 26 and 43 chapters inventoried, and selected passages read across their major parts. Initial tool displays for Man Is Not Alone L363–396 and L693–724 were clipped. The reading ledger marks this; emitted estimates are upper bounds, not claims of full inspection. No detailed ch. 10 argument is retained. Quotations still require checking the actual supplied text. The older six-source reading records remain historical, rather than being relabeled as new reading.

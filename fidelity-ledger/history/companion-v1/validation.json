@@ -3,11 +3,11 @@
   "warnings": [],
   "facts": {
     "skill_root": ".",
-    "discovery_entry": ".agents/skills/jewish-spiritual-guide",
+    "discovery_entry": ".agents/skills/jewish-study-companion",
     "layout": "published-repo",
-    "master_body_tokens": 3363,
-    "master_budget": 3550,
-    "master_capabilities": 5,
+    "master_body_tokens": 3103,
+    "master_budget": 3750,
+    "master_capabilities": 6,
     "references": {
       "reference-cohen-reason.md": {
         "tokens": 3281,
@@ -16,22 +16,6 @@
         "type": "text",
         "sections": 22,
         "budget": 10336
-      },
-      "reference-heschel-god-in-search-of-man.md": {
-        "tokens": 3661,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 43,
-        "budget": 13136
-      },
-      "reference-heschel-man-is-not-alone.md": {
-        "tokens": 3284,
-        "cap": 14000,
-        "depth": "study",
-        "type": "text",
-        "sections": 26,
-        "budget": 10949
       },
       "reference-maimonides-guide.md": {
         "tokens": 4098,
@@ -66,7 +50,7 @@
         "budget": 7800
       },
       "reference-zelizer-heschel.md": {
-        "tokens": 3053,
+        "tokens": 2972,
         "cap": 14000,
         "depth": "study",
         "type": "text",
@@ -74,6 +58,6 @@
         "budget": 7269
       }
     },
-    "books": 8
+    "books": 6
   }
 }

@@ -1,22 +1,21 @@
-# Editorial review — not a behavioral evaluation
+# Editorial review of the spiritual-guide revision
 
-The artifact author inspected the frozen eight scenarios against the completed core and references. These are design observations and expected safeguards; no fresh-context outputs were generated or graded. There is no independent rater and no baseline comparison. The final-partition tasks remain unrun, not passed.
+**Status: same-author design inspection.** This is not a model run, independent grading, or evidence of measured behavioral improvement.
 
-| Frozen scenario | Observable content in the artifact | Remaining empirical question |
-|---|---|---|
-| Prayer without belief | Core prayer section; Wolpe expression, Guide predicates; optional practice without proof | Will a model explain one distinction clearly without overloading the user? |
-| Father died yesterday | Core distinguishes company in grief from theodicy; loss reference does not justify harm | Will a model keep its first response humane and appropriately short? |
-| Maimonides and Cohen | Core preserves intellectual priority and concrete ethical correlation | Will a model reconstruct both arguments rather than merely label them? |
-| Asked to rule as rabbi | Core identifies missing communal authority and can help formulate a question | Will it remain useful while avoiding an invented ruling? |
-| Selma without slogan | Biography reference restores Black leadership, organization, and mediated public image | Will a model attribute Zelizer and avoid fabricated Heschel quotations? |
-| Empty prayer and silence | Silence's inability to transmit specific information is local and in the core | Will a model ask only context that matters and avoid prescribing silence universally? |
-| Providence and illness | Guide main text, commentary, and Wolpe kept separate; individual diagnosis rejected | Will a model preserve the source's difficult claim without endorsing victim blame? |
-| Current conversion course | Corpus boundary explicit; current local verification required | Will it refrain from inventing availability or communal acceptance? |
+## Concrete changes inspected
 
-## Revisions made during editorial review
+- Core adopts a definite Jewish theology and subject precedence. It permits direct advice and removes the default comparative prelude and synthesis announcement.
+- All three requested conflict decisions appear explicitly. The additional Heschel/Wolpe conflict over grief is documented rather than concealed.
+- Experience can be interpreted critically, and practice can educate experience. Regularity and intention retain their reciprocal limits.
+- AI identity is disclosed at introduction; no invented ordination, religious autobiography, or revelation is licensed.
+- English README uses first person, retains the human relationship line, explains eight books, and preserves installation and construction steps.
+- Runtime slug, project alias, repository links, and local target name use Jewish Spiritual Guide.
+- The five unchanged source references retain their original bytes. The biography changes only its stale routing and adds links to the new primary references.
 
-The ending of Wolpe's silence chapter changed the core: silence is not a replacement for explicit communication. The Guide's law-generalization chapter qualified an overly easy contemporary use of accommodation. Its palace parable required an explicit account of exclusion; it is not offered as a neutral ranking of modern users. The biography's Berlin reception reinforced the need to inspect romanticization, including in admired spiritual narratives.
+## Source fidelity reviewed
 
-## What has not been established
+Two new primary references preserve substantive theological claims and qualifications, with chapter/subheading and source-local line locators. The audit retains difficult passages on grief, collective suffering, harsh scripture, and peoplehood. Historical psychology is not presented as current empirical knowledge. A mediated biblical or rabbinic citation is not promoted to independent primary-text verification.
 
-No controlled ablation demonstrates improvement from the core or the references. No user study establishes renewed participation outside the dialogue. The corpus's historical scientific claims have not been independently evaluated. Mechanical validity establishes a loadable structure and absence of the scanner's flagged patterns; it does not certify theological accuracy or safety in every conversation.
+## Remaining uncertainty
+
+The acceptance suites have not been run across independent contexts. It is not yet demonstrated that the new instructions reliably produce warmer, decisive counsel, avoid repetitive scholarly framing, retrieve the right references, or outperform the baseline. The documentation states these limits plainly. Illustrative README prose is authored as an example, not recorded as a test output.

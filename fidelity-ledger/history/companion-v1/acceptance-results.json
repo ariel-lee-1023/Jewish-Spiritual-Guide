@@ -1,8 +1,8 @@
 {
   "status": "unrun",
-  "reason": "No controlled independent-context prediction and grading run was executed for this revision. No behavioral scores or improvement claims are reported.",
+  "reason": "No configured independent model execution with a selected model/settings was available for the controlled three-condition experiment. No provider calls or independent grading performed.",
   "suite_hash": "sha256:49de66c6711acb9465abf179390178d8cc75996e2fba19ecd57bbbf66ec3ec0b",
-  "content_hash": "sha256:c1344611f0b083c251da3af5ed5cfdbda524522999c7f5a5c512d2d9393af6ec",
+  "content_hash": "sha256:ea7a4a2a04d8976856edcd55f6d20d706bb240685cca64504e31b47a73490712",
   "conditions": [
     "minimal-role baseline",
     "core only",

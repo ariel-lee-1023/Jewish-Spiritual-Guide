@@ -1,30 +1,32 @@
 # Fidelity ledger
 
-These are maintainer records. Ordinary domain dialogue loads the root skill and relevant references only.
+Maintainer evidence lives here. Ordinary domain dialogue loads the root skill and relevant references only.
 
-- [source-manifest.json](source-manifest.json): six source identities, hashes, section counts, extraction outcome, budgets, and publication exclusions.
-- [coverage-inventory.json](coverage-inventory.json): retained sections, dropped material, and a complete disposition list for the Guide's 178 chapters.
-- [coverage-audit.md](coverage-audit.md): two additional spans per source, changed qualifications, and limitations.
-- [reading-ledger.json](reading-ledger.json) and [reading-report.json](reading-report.json): bounded reads, overlap, emitted-token upper bounds, and unknown actual consumption. Some tool outputs were clipped; neither exact reading coverage nor precise provider usage is claimed.
-- [synthesis-and-attribution.md](synthesis-and-attribution.md): source distinctions and the companion's own design commitments.
-- [acceptance-suite.json](acceptance-suite.json): eight frozen scenarios, defined after conversion/metadata inspection and before semantic source reading; four development and four final.
-- [acceptance-results.json](acceptance-results.json): explicitly **unrun**, with suite/runtime hashes. No fabricated responses, grades, or provider usage.
-- [editorial-review.md](editorial-review.md): same-author design review, distinct from behavioral evidence.
-- [validation.json](validation.json): actual structural validator result.
-- [scan-core.json](scan-core.json) and [scan-references.json](scan-references.json): separate strict instruction-boundary scans.
-- [quick-validation.txt](quick-validation.txt): Agent Skills frontmatter validation.
-- [verification.json](verification.json): links, reference count, source-locator bounds, hashes, and symlink checks.
+## Current records
 
-## Reproduce mechanical checks
+- [source-manifest.json](source-manifest.json): eight source identities, hashes, corrected chapter counts, extraction outcomes, budgets, and publication exclusions.
+- [coverage-inventory.json](coverage-inventory.json): retained arguments and omissions, including chapter dispositions for the Guide and both new Heschel works.
+- [coverage-audit.md](coverage-audit.md): original audits plus two additional spans per Heschel book, counterexamples, and limits.
+- [heschel-reading-ledger.json](heschel-reading-ledger.json): incremental bounded reading, audit questions, and emitted-token bounds. Two clipped outputs are marked; actual model consumption was not metered.
+- [reading-ledger.json](reading-ledger.json) and [reading-report.json](reading-report.json): historical six-book reading records, unchanged by this expansion.
+- [synthesis-and-attribution.md](synthesis-and-attribution.md): adopted subject priorities, settled conflicts, and the distinction between the guide's voice and its sources.
+- [acceptance-suite.json](acceptance-suite.json): original frozen eight-scenario suite, preserved byte-for-byte.
+- [spiritual-guide-acceptance-suite.json](spiritual-guide-acceptance-suite.json): eight additional frozen scenarios for the redesigned guide, defined before semantic reading of the new complete books and the rewritten core, after the user brief and publisher opening excerpts had been read.
+- [acceptance-results.json](acceptance-results.json) and [spiritual-guide-acceptance-results.json](spiritual-guide-acceptance-results.json): current runtime identity and explicit unrun status. No fabricated transcripts, grades, or provider usage.
+- [editorial-review.md](editorial-review.md): same-author inspection, distinct from behavioral evidence.
+- [validation.json](validation.json), [scan-core.json](scan-core.json), [scan-references.json](scan-references.json), [quick-validation.txt](quick-validation.txt), [verification.json](verification.json), and [suite-validation.json](suite-validation.json): actual mechanical checks for the revised layout.
+- [history/companion-v1/](history/companion-v1/): preserved earlier maintainer evidence. Historic hashes and counts describe that earlier artifact, not this revision.
 
-With the Books-to-Skill-Refs tool repository available, run its tools against this repository path:
+## Reproduce checks
+
+Using the Books-to-Skill-Refs tool repository, run:
 
 ```sh
-python3 tools/validate_library.py /path/to/Jewish-Study-Companion --layout published-repo --json
-python3 tools/scan_generated_skill.py /path/to/Jewish-Study-Companion/SKILL.md --strict --json
-python3 tools/scan_generated_skill.py /path/to/Jewish-Study-Companion/references --strict --json
+python3 tools/validate_library.py /path/to/Jewish-Spiritual-Guide --layout published-repo --json
+python3 tools/scan_generated_skill.py /path/to/Jewish-Spiritual-Guide/SKILL.md --strict --json
+python3 tools/scan_generated_skill.py /path/to/Jewish-Spiritual-Guide/references --strict --json
 ```
 
-`reading-report.json` uses the metatool's reading-audit calculation with renamed fields because emitted-token bounds are not actual read counts. Do not use its estimates as provider billing data. The section budget is a target, not a floor; shorter references were not padded. No local paths to the source books are published.
+Section budgets are targets, not floors. References are not padded to meet a target. Extraction does not establish semantic reading of all lines. Emitted-token bounds are not billing data. Private source paths and raw books are excluded from publication.
 
-Controlled behavioral evaluation must use actual independent contexts, the same selected model/settings across baseline, core-only and full-reference conditions, retrieval traces, separate grading, and provider-reported usage where available. Until then, the suite's existence and the structural pass establish neither improvement nor full behavioral acceptance.
+Controlled evaluation requires actual independent contexts, a selected model with identical settings for baseline, core-only, and relevant-reference conditions, retrieval traces, separate grading, and reported usage where available. Until run, structural passes establish neither behavioral superiority nor full acceptance.

@@ -1,0 +1,296 @@
+{
+  "sources": {
+    "alone": {
+      "lines": 1820,
+      "output_budget": 14000
+    },
+    "search": {
+      "lines": 4489,
+      "output_budget": 14000
+    }
+  },
+  "reads": [
+    {
+      "source": "alone",
+      "start": 1,
+      "end": 37,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 1720,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 1,
+      "end": 38,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 293,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 39,
+      "end": 245,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2221,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 39,
+      "end": 72,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2500,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 75,
+      "end": 108,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2512,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 252,
+      "end": 288,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2230,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 300,
+      "end": 329,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 1687,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 1797,
+      "end": 1820,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 207,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 323,
+      "end": 338,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 1010,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 363,
+      "end": 396,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 3681,
+      "actual_consumed_tokens": null,
+      "display_status": "tool output clipped; full emitted estimate is not fully inspected text"
+    },
+    {
+      "source": "alone",
+      "start": 693,
+      "end": 724,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2589,
+      "actual_consumed_tokens": null,
+      "display_status": "tool output clipped; full emitted estimate is not fully inspected text"
+    },
+    {
+      "source": "alone",
+      "start": 1151,
+      "end": 1176,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2087,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 755,
+      "end": 786,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2998,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 807,
+      "end": 834,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2516,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 1263,
+      "end": 1306,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 3275,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 1391,
+      "end": 1434,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2973,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 2880,
+      "end": 2933,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2993,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 3092,
+      "end": 3142,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2662,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 3170,
+      "end": 3218,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2923,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 3349,
+      "end": 3395,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 3019,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 1524,
+      "end": 1568,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2374,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 3396,
+      "end": 3449,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 3015,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 887,
+      "end": 908,
+      "reason": "audit",
+      "question": "Does religious cultivation simply validate felt needs?",
+      "resolution": "Heschel distinguishes demand from worth; legitimate need must be examined rather than deified.",
+      "emitted_estimated_tokens_upper_bound": 1629,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "alone",
+      "start": 1109,
+      "end": 1149,
+      "reason": "audit",
+      "question": "Does religious response authorize magical control or certainty about private commands?",
+      "resolution": "Religion answers a transcendent claim through modesty and conduct; magical control is rejected.",
+      "emitted_estimated_tokens_upper_bound": 3020,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 1959,
+      "end": 2014,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2327,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 3814,
+      "end": 3858,
+      "reason": "audit",
+      "question": "Does examination of mixed motives justify universal suspicion or claims of spiritual superiority?",
+      "resolution": "Heschel examines ego before, during, and after deeds, but rejects the inference that integrity is impossible.",
+      "emitted_estimated_tokens_upper_bound": 2419,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 3896,
+      "end": 3937,
+      "reason": "audit",
+      "question": "Does self-transcendence require denying the worth of the self?",
+      "resolution": "Rejects both self-contempt and conceit; regard for oneself must be integrated with regard for others.",
+      "emitted_estimated_tokens_upper_bound": 2405,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 4127,
+      "end": 4178,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 3329,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    },
+    {
+      "source": "search",
+      "start": 2779,
+      "end": 2824,
+      "reason": "initial",
+      "emitted_estimated_tokens_upper_bound": 2425,
+      "actual_consumed_tokens": null,
+      "display_status": "not independently metered; no clipping observed"
+    }
+  ],
+  "queries": [
+    {
+      "source": "search",
+      "pattern": "ACTIONS TEACH|REGULARITY AND|THE TEXT AS|HARSH PASSAGES|TO IMAGINE|THE TWO ASPECTS|SELF-EFFACEMENT|REGARD FOR THE SELF",
+      "displayed_hits": 28,
+      "total_hits": 28,
+      "tokens": 1577,
+      "scope": "350-character line snippets; not full-line inspection"
+    }
+  ],
+  "scope": "Incremental Heschel source reading only; prior six-book ledger retained separately. Line ranges are source-local.",
+  "usage_note": "Cleaned emitted estimates, not exact model consumption or provider billing. Structure scans and bounded query snippets are not full chapter reading. Overlapping ranges are not additive coverage.",
+  "prior_sources": "reading-ledger.json"
+}

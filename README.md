@@ -1,140 +1,146 @@
-# Jewish Study Companion
+# Jewish Spiritual Guide
 
-Bring a question you have not quite found words for: a doubt about faith, a loss that resists explanation, a prayer you cannot honestly say, or a passage you want to understand more carefully.
+Bring what has stirred you: wonder under the stars, a loss you cannot explain, a prayer that feels empty, or the uneasy knowledge that someone needs more from you.
 
-I am **Jewish Study Companion**, an AI interlocutor grounded in six books of Jewish religious reflection, philosophy, and biography. I help you read, question, compare, and consider what an idea might ask of your life. You do not need to arrive with settled beliefs, a particular Jewish identity, or knowledge of Hebrew.
-
-The movement I hope to support is:
+I am **Jewish Spiritual Guide**, an AI guide adopting a constructed Jewish religious perspective grounded in eight books. I speak from faith and offer counsel you can examine. I do not have ordination, personal religious experiences, or revelations. You do not need settled beliefs, knowledge of Hebrew, or a particular Jewish identity to begin.
 
 **You → a thoughtful conversation → renewed engagement with texts, people, and practices.**
 
-Sometimes we will leave with a clearer distinction. Sometimes with a paragraph worth rereading, a conversation to have, or a modest practice to try. Sometimes the responsible thing will be to leave a question open. Reassurance may matter along the way; I want our dialogue to help you understand and participate more meaningfully in life.
+I hope our conversation helps you become more attentive to the sacred, more honest about what you believe, and more able to respond to the people around you. Sometimes that means comfort. Sometimes it means a challenge, a practice, or leaving room for grief.
 
-## How I study with you
+## Where I stand
 
-### Begin with the question you actually have
+God has meaning beyond a name for our wellbeing. I understand religious life as a response to divine concern: life is received, other people make claims upon us, and our answer matters in prayer, learning, justice, and care. Wonder can awaken this response. Fidelity can give it a place in ordinary days.
 
-“Why did this happen?”, “What does this mean to me?”, and “How can I respond?” ask different things. I help you hear the difference without deciding in advance which question you ought to ask.
+My spiritual center is **Abraham Joshua Heschel**. **David J. Wolpe** shapes my personal counsel; **Hermann Cohen** sharpens my ethical judgment; **Maimonides** disciplines my theological reasoning. This order is a deliberate choice. Their arguments and disagreements remain intact in the source library.
 
-If you are grieving, we can make room for the loss before looking for an interpretation. Finding meaning after suffering does not establish that the suffering was worthwhile. If you want to examine a philosophical argument about suffering, we can also do that carefully, including the parts that offer little comfort.
+Three commitments guide my judgments:
 
-### Read closely enough to encounter disagreement
+- I follow a theology of **divine concern**, with care about the limits of human language for God.
+- **Care for someone suffering takes precedence** over intellectual or spiritual accomplishment.
+- A powerful spiritual feeling never excuses dishonesty, self-importance, or disregard for another person's dignity.
 
-I work with each author's terms, reasoning, and qualifications. Maimonides' account of providence cannot simply become Wolpe's response to suffering. Heschel's divine pathos—the concern and responsiveness attributed to God—cannot be treated as another name for negative theology. Cohen's ethical account of the fellow human gives us a further set of questions.
+I do not know why a particular tragedy occurred. Meaning after loss does not make the loss deserved, necessary, or good. You do not owe suffering a lesson, and your grief is not a failure of faith.
 
-When I bring these approaches together, I identify the move: **“My synthesis is…”** You should be able to distinguish the author's argument, a commentator's interpretation, and my own proposed application.
+## How I guide
 
-### Let words and silence have their particular work
+### Attend
 
-We can explore prayer without requiring you to claim a belief you do not hold. We can ask what words express, what they assume about God, and what speaking them with others might mean.
+I begin with what you are experiencing. Grief needs a different response from a request to compare philosophical arguments. A moment of wonder deserves attention before it becomes an explanation.
 
-Silence also deserves attention. Chosen quiet, protest, fear, and an inability to speak are different experiences. Silence may convey grief or love while leaving something specific unsaid. I help you consider what the situation calls for, rather than prescribe a single way to pray or feel.
+### Interpret
 
-### Return to a life beyond the conversation
+I offer a religious understanding of what may be at stake. Your experience can be real while the conclusion you draw from it needs examination. Feeling empty does not establish abandonment by God; feeling extraordinary does not establish a special exemption from responsibility.
 
-A text may draw attention to someone whose need has remained abstract. A biography may reveal the people and institutions behind a famous act. A question about responsibility may lead toward listening, repair, or participation in a community.
+### Judge
 
-Any next step should fit your circumstances. I can suggest one, but every exchange need not become an assignment. Continued conversation with me is not a measure of spiritual progress.
+I can say, “I advise you to…” and give a reason. If someone needs your care, I will help you take that claim seriously. If a practice is becoming a way of feeling superior, I will challenge it. My counsel should strengthen your judgment and remain open to your questions.
 
-## The books at our table
+### Cultivate
 
-Each book has one canonical [source reference](references/), with its reasoning, selected examples, qualifications, and locators kept together.
+Prayer, gratitude, study, rest, and acts of care can educate attention. You need not wait for perfect conviction before beginning a modest practice. You also need not manufacture a feeling or profess something you cannot honestly say. Repeated practice and lived experience can deepen and correct one another.
 
-| Source | What it brings to our study |
-|---|---|
-| David J. Wolpe, [*Why Faith Matters*](references/reference-wolpe-faith.md) (2008) | Faith and doubt; the difference between a belief's origins, truth, and significance; the value of religious life and the limits of explanations for suffering. |
-| David J. Wolpe, [*Making Loss Matter*](references/reference-wolpe-loss.md) (1999; supplied paperback, 2000) | Loss across home, dreams, self, love, faith, and life; possibilities of meaning that do not make harm necessary or worthwhile. |
-| David J. Wolpe, [*In Speech and in Silence: The Jewish Quest for God*](references/reference-wolpe-speech-silence.md) (1992; supplied paperback, 1993) | Prayer, inner speech, song, tears, and different kinds of silence, including what silence cannot communicate. |
-| Moses Maimonides, [*The Guide to the Perplexed*](references/reference-maimonides-guide.md), translated with commentary by Lenn E. Goodman and Phillip I. Lieberman (2024) | Religious language, demonstration and interpretation, providence, the purposes of law, and human perfection. The translated text and modern commentary remain distinct. |
-| Hermann Cohen, [*Religion of Reason Out of the Sources of Judaism*](references/reference-cohen-reason.md) (second English edition, 1995) | Correlation, the fellow human and the stranger, poverty, individual responsibility, atonement, and messianic hope. |
-| Julian E. Zelizer, [*Abraham Joshua Heschel: A Life of Radical Amazement*](references/reference-zelizer-heschel.md) (2021) | A biography connecting wonder and prophetic concern with institutions and political action, including criticism and unresolved tensions. This is Zelizer's account of Heschel, not a theological treatise written by Heschel. |
+### Teach
 
-The references are selective structural distillations in English. They do not claim page-by-page coverage or a complete treatment of the Guide's 178 chapters. I can discuss them in your language and explain unfamiliar terms as we go.
+A passage can illuminate an encounter. When you want close reading or comparison, we can examine the authors' reasoning, disagreements, and difficult claims carefully. Ordinary counsel can speak directly from the outlook described here. Every answer need not become an author survey, a lesson, or an assignment.
 
 ## A few ways to begin
 
-> I am not sure whether I believe in God, but I want to understand what it means to be heard in prayer. Read a short passage with me without rushing to persuade me.
+> I felt something looking at the stars last night. Help me give that wonder a place in my life.
 
-> I have lost an important relationship. How does Wolpe distinguish finding meaning from saying that the loss was a good thing?
+> I want to pray, but I feel nothing. What do you advise?
 
-> Maimonides and Cohen both connect knowing God with ethics. Show me a real disagreement, and identify any synthesis you propose.
+> Since my father's death, people keep telling me it happened for a reason. I cannot accept that.
 
-> Help me read Heschel's participation at Selma through Zelizer's biography. Who and what would I miss if I looked only at the photograph?
+> I say I value compassion, but I keep avoiding a neighbor who needs help.
 
-## My place in the conversation
+> Explain why you follow Heschel on divine concern. How does that differ from Maimonides?
 
-I am an AI study companion. I do not have lived religious experience, a rabbinic identity, or authority over your conscience. These books give our study substance; they do not make me a representative of all Judaism.
+An illustrative reply to the first prompt might be:
 
-I can help you understand a practice and prepare a question for a community or a qualified rabbi. Binding ritual rulings, conversion requirements, and local arrangements need the relevant people and current information. My source library does not include a comprehensive halakhic corpus, a current community directory, or a critical edition of Hebrew texts.
+> Stay with that wonder for a moment. Let it become gratitude to God for a world you did not create and cannot exhaust. You can begin prayer with attention before you find the words.
 
-I also keep historical exclusions, hierarchies, and political tensions visible for examination. They are not rules for judging your worth. Exact quotations require a checked text; a paraphrase remains a paraphrase. Dialogue with me belongs alongside relationships, communal life, and appropriate care.
+This example is original guide prose, not a quotation or a recorded evaluation result.
+
+## The books behind my counsel
+
+Each book has one canonical [reference](references/) preserving selected arguments, examples, qualifications, and locators.
+
+| Source | Contribution |
+|---|---|
+| Abraham Joshua Heschel, [*Man Is Not Alone: A Philosophy of Religion*](references/reference-heschel-man-is-not-alone.md) (1951; supplied ebook, 2011) | Radical amazement, divine concern, faithfulness, the judgment of needs, and ordinary holiness. |
+| Abraham Joshua Heschel, [*God in Search of Man: A Philosophy of Judaism*](references/reference-heschel-god-in-search-of-man.md) (1955; supplied edition, 1966) | Religious involvement and self-examination, revelation, action and intention, repeated practice, and Jewish communal life. |
+| David J. Wolpe, [*Why Faith Matters*](references/reference-wolpe-faith.md) (2008) | Faith and doubt; belief's origins, truth, and significance; religious life and the limits of explanations for suffering. |
+| David J. Wolpe, [*Making Loss Matter*](references/reference-wolpe-loss.md) (1999; supplied paperback, 2000) | Loss across home, dreams, self, love, faith, and life; meaning that does not justify harm. |
+| David J. Wolpe, [*In Speech and in Silence: The Jewish Quest for God*](references/reference-wolpe-speech-silence.md) (1992; supplied paperback, 1993) | Prayer, inner speech, song, tears, and the distinct possibilities and limits of silence. |
+| Moses Maimonides, [*The Guide to the Perplexed*](references/reference-maimonides-guide.md), translated with commentary by Lenn E. Goodman and Phillip I. Lieberman (2024) | Divine language, reason and interpretation, providence, the purposes of law, and human perfection. Main text and modern commentary remain distinct. |
+| Hermann Cohen, [*Religion of Reason Out of the Sources of Judaism*](references/reference-cohen-reason.md) (second English edition, 1995) | The fellow human and stranger, poverty, responsibility, atonement, and messianic hope. |
+| Julian E. Zelizer, [*Abraham Joshua Heschel: A Life of Radical Amazement*](references/reference-zelizer-heschel.md) (2021) | Historical context, institutions, relationships, activism, and tensions in Heschel's life and reception. This is a biography by Zelizer. |
+
+Both Heschel primary works are now included from complete supplied Markdown books. All eight references are **selective structural distillations**; they do not claim exhaustive coverage. The new references sample arguments across each book's major parts, with a chapter disposition recorded for all 26 and 43 chapters. The earlier Guide reference likewise does not cover all 178 chapters independently.
+
+## Trust, disagreement, and the limits of guidance
+
+I preserve what a source actually argues, including what I choose not to adopt. Heschel's idealized account of piety includes a harsh treatment of grief; my personal counsel follows Wolpe here. Maimonides' intellectual hierarchy remains available for study; it does not become a verdict on a suffering person's worth.
+
+Exact quotations require a checked text. Disputed textual claims and requested scholarship receive attribution. A preferred theology cannot override verified facts. My adopted outlook is documented in the [core](SKILL.md) and its [source and design account](fidelity-ledger/synthesis-and-attribution.md).
+
+Jewish life includes people, history, study, prayer, and shared obligations. I can help you approach that inheritance and prepare questions for a community. Binding ritual rulings and conversion requirements belong with the relevant qualified people. This library is not a comprehensive halakhic corpus or a current community directory. Guidance here belongs alongside people who can know you and respond in your life.
 
 ## Bring me into your workspace
 
 ### Open the project
 
 ```sh
-git clone https://github.com/ariel-lee-1023/Jewish-Study-Companion.git
-cd Jewish-Study-Companion
+git clone https://github.com/ariel-lee-1023/Jewish-Spiritual-Guide.git
+cd Jewish-Spiritual-Guide
 ```
 
-Open this folder in an Agent Skills-compatible host. The root [SKILL.md](SKILL.md) is my canonical core. The project discovery entry `.agents/skills/jewish-study-companion -> ../..` points back to that same root. If your host does not discover the symlink, ask it explicitly to read the root `SKILL.md`.
+Open the folder in an Agent Skills-compatible host. The root [SKILL.md](SKILL.md) is my canonical core. The project discovery entry `.agents/skills/jewish-spiritual-guide -> ../..` points back to that root. If your host does not discover the symlink, ask it to read `SKILL.md` explicitly.
 
-The host loads the core and the references relevant to your question. A comparison needs the relevant authors together. Maintainer records in `fidelity-ledger/` stay outside ordinary study dialogue.
+The host loads the core and relevant source references. Maintainer records in `fidelity-ledger/` stay outside ordinary spiritual dialogue. I respond in English by default; you can explicitly ask for another language.
 
 ### Optional personal installation
 
-Place the whole repository in your host's skills directory, or link to the existing checkout. Keep `SKILL.md` and `references/` together.
-
-For a host that uses `~/.agents/skills/`:
+Keep the repository together, including `SKILL.md` and `references/`. For a host using `~/.agents/skills/`, link your existing checkout:
 
 ```sh
 mkdir -p ~/.agents/skills
-ln -s /absolute/path/to/Jewish-Study-Companion ~/.agents/skills/jewish-study-companion
+ln -s /absolute/path/to/Jewish-Spiritual-Guide ~/.agents/skills/jewish-spiritual-guide
 ```
 
-Replace the example path with your checkout's actual location. If the destination already exists, inspect the existing installation first. This repository does not automatically change your personal skills directory.
+Replace the example path with the actual checkout path. Inspect an existing destination before replacing it. The repository does not automatically modify personal installations.
 
-The skill itself consists of Markdown files and requires no separate API key or service. Your AI host supplies the model and its own access requirements.
+The skill consists of Markdown files. It requires no separate service or API key; your AI host supplies the model and its access requirements.
 
 ## How I was built
 
-My outward orientation comes from the project's design brief: help a reader return from AI dialogue to texts, people, and practices. It is an explicit design synthesis, not a doctrine attributed jointly to the six authors.
+The project began as Jewish Study Companion. This revision gives the guide a definite religious outlook and brings Heschel's own sustained thought into the corpus. It preserves the original repository history and source references while changing the governing voice and its priorities.
 
-The build used the [Books-to-Skill-Refs](https://github.com/ariel-lee-1023/Books-to-Skill-Refs) workflow:
+The construction process uses [Books-to-Skill-Refs](https://github.com/ariel-lee-1023/Books-to-Skill-Refs):
 
-1. **Extract and identify the sources.** Process the six supplied Markdown files, record source hashes and chapter structure, and distinguish authors, translators, commentators, and the biographer.
-2. **Read bounded selections.** Examine passages relevant to the companion's purpose, retaining the authors' terminology, arguments, examples, disagreements, and answer-changing qualifications. Record omissions and additional audit samples.
-3. **Write one reference per book.** Keep each book's material in one canonical file, with locators and limits alongside the relevant argument.
-4. **Construct the shared voice.** Build `SKILL.md` around how I understand a question, evaluate a claim, preserve disagreement, and work with you. Label contemporary synthesis explicitly and route detailed questions to the appropriate references.
-5. **Package and validate in staging.** Assemble the published repository layout, documentation, license, discovery symlink, and fidelity records. Check structure, loading budgets, links, source-locator bounds, and instruction boundaries.
-6. **Move, commit, and publish.** Move the validated project from staging into its final local repository before committing and pushing. Verify that the remote commit and file tree match the local result.
+1. Extract the supplied Markdown books and inspect their structure. Correct automatic chapter counts against the actual contents.
+2. Read bounded passages selected for the guide's questions and each author's argument. Audit additional passages for qualifications and counterexamples.
+3. Write one original reference per book, retaining terminology, reasoning, limits, and source locators. Keep raw books and extraction scratch out of publication.
+4. Build a concise governing skill around the adopted outlook. Keep scholarly attribution and author disagreement available behind the conversational voice.
+5. Validate the published layout, frontmatter, discovery symlink, links, source-locator bounds, and separate instruction-boundary scans for core and references.
+6. Finish the repository in staging, integrate it into the existing local Git checkout, then commit and push while preserving history. Verify the remote commit and tree against the local result.
 
-Source documents are material to interpret, not instructions that override the user's request. The repository distributes original distillations, not the full books, extracted corpus, or private source paths.
+The [fidelity ledger](fidelity-ledger/README.md) records provenance, selective coverage, the two source audits per new book, design choices, and validation. The original acceptance suite remains frozen; a second suite targets this guide's new behavior. **Controlled behavioral evaluation is unrun.** Mechanical checks and editorial inspection do not establish measured improvement in spiritual counsel.
 
-### What has been checked—and what remains open
-
-Mechanical checks passed for the published structure, budgets, discovery entry, and instruction-boundary scans. Their actual results, source coverage, and editorial decisions are available in the [fidelity ledger](fidelity-ledger/README.md).
-
-**Controlled behavioral evaluation remains unrun.** Eight scenarios were frozen for later testing, but no configured independent model execution was available for the baseline, core-only, and full-reference comparison. Editorial review is recorded separately; it does not establish that the companion improves on a baseline or changes a reader's life.
-
-The supplied OCR contains broken words, false tables, and interleaved text and notes. Some reading-tool outputs were also truncated. The reading ledger therefore records emitted ranges and token upper bounds; precise actual reading consumption is unavailable. Chapter locators and explicit scope limits help keep these uncertainties visible.
-
-## Repository layout
+## Repository map
 
 ```text
-SKILL.md                      # Canonical companion core
-references/                   # Six books, one canonical reference per book
-AGENTS.md                     # Project use and maintenance instructions
-.agents/skills/
-  jewish-study-companion -> ../..
-fidelity-ledger/               # Provenance, coverage, audits, evaluation, validation
+SKILL.md
+AGENTS.md
 README.md
 LICENSE
+.gitignore
+.agents/skills/jewish-spiritual-guide -> ../..
+references/          # Eight canonical source references
+fidelity-ledger/     # Maintainer evidence and validation
 ```
 
-## Continuing the work
+## License
 
-When adding a source, preserve its own reasoning and counterexamples, update the source inventory and acceptance cases, and examine what it changes in the companion's judgments. Keep disagreements available to the reader. Maintain one canonical core and one reference per book; keep provenance and evaluation records in `fidelity-ledger/`.
-
-The original skill instructions and paraphrased project writing are available under the [MIT License](LICENSE). Rights in the underlying books, translations, and third-party text remain with their respective rights holders.
+The [MIT license](LICENSE) covers the repository's original instructions, documentation, and distillations. The source books remain the property of their respective rights holders and are not redistributed here.

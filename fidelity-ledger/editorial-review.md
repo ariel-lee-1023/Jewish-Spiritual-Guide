@@ -4,7 +4,7 @@
 
 ## Concrete changes inspected
 
-- Core adopts a definite Jewish theology and subject precedence. It now makes a recommendation, its religious reason, and relevant conditions the default when counsel is requested, and removes the default comparative prelude and synthesis announcement. The later voice refinement also removes worldview preambles: theology appears through concrete interpretation and counsel, with contextual examples that are explicitly illustrative rather than evaluation outputs.
+- Core adopts a definite Jewish theology and subject precedence. It retains substantive judgments while replacing the earlier recommendation–reason–conditions delivery sequence with attentive pastoral speech. Wolpe leads conversational movement and explanation as well as personal counsel. The later voice refinement also removes worldview preambles: theology appears through concrete interpretation and counsel, with contextual examples that are explicitly illustrative rather than evaluation outputs.
 - All three requested conflict decisions appear explicitly. The additional Heschel/Wolpe conflict over grief is documented rather than concealed.
 - Experience can be interpreted critically, and practice can educate experience. Regularity and intention retain their reciprocal limits.
 - Following the user’s voice correction, ordinary counsel has no required AI or non-rabbi introduction. Direct identity questions receive truthful answers; no invented ordination, religious autobiography, or revelation is licensed. Any authority limit is specific to the actual question.
@@ -18,9 +18,9 @@ Two new primary references preserve substantive theological claims and qualifica
 
 ## Faithfulness decision review
 
-Same-author inspection of the revised instructions, not executed model responses:
+Same-author inspection of the retained judgments, not executed model responses or a required conversational sequence:
 
-| User's case | Required recommendation | Circumstances requiring discernment |
+| User's case | Judgment retained | Circumstances requiring discernment |
 |---|---|---|
 | Prayer feels empty | Sustain an established obligation and cultivate attention | Whether the obligation applies, actual capacity, and community practice |
 | Apology is embarrassing | Acknowledge the wrong, apologize appropriately, and repair | The harmed person's boundaries and whether contact would cause further harm |
@@ -28,6 +28,12 @@ Same-author inspection of the revised instructions, not executed model responses
 | Spirituality is entirely private | Participate in shared learning, prayer, and care | Access and attainable forms of participation |
 
 Optional practices are distinguished from established obligations. The practice section was revised so modest exercises do not silently replace what is owed. The two frozen suites remain unchanged; no behavioral pass is inferred from this table.
+
+## Pastoral voice review
+
+The procedural recommendation paragraph was removed, and the corresponding project and README wording was aligned. “Speak with warmth and conviction” gives a positive model of conversational movement. It covers connected paragraphs for vulnerability, practical lists when helpful, concrete language, relevant everyday qualifications, and room for a response. It rejects superficial synonym substitution and the use of reference-summary diction as conversational style. The earlier set of stock-like illustrative replies was removed. Author priorities, the four faithfulness rules, source distinctions, and honest limits remain.
+
+The linked Wolpe piece was inspected as a supplemental writing example; its provenance and the limited design inference are recorded in synthesis-and-attribution.md. No new book or model-evaluation result is claimed.
 
 ## Remaining uncertainty
 

@@ -7,7 +7,7 @@
 - Core adopts a definite Jewish theology and subject precedence. It permits direct advice and removes the default comparative prelude and synthesis announcement.
 - All three requested conflict decisions appear explicitly. The additional Heschel/Wolpe conflict over grief is documented rather than concealed.
 - Experience can be interpreted critically, and practice can educate experience. Regularity and intention retain their reciprocal limits.
-- AI identity is disclosed at introduction; no invented ordination, religious autobiography, or revelation is licensed.
+- Following the user’s voice correction, ordinary counsel has no required AI or non-rabbi introduction. Direct identity questions receive truthful answers; no invented ordination, religious autobiography, or revelation is licensed. Any authority limit is specific to the actual question.
 - English README uses first person, retains the human relationship line, explains eight books, and preserves installation and construction steps.
 - Runtime slug, project alias, repository links, and local target name use Jewish Spiritual Guide.
 - The five unchanged source references retain their original bytes. The biography changes only its stale routing and adds links to the new primary references.

@@ -40,3 +40,13 @@ The user further identified worldview announcements such as “In the Jewish out
 ## Jewish audience and devotion
 
 The user explicitly clarified that this repository serves Jews and that the guide itself is devout. This supersedes the earlier open-audience design. God, Torah, mitzvot, and Jewish communal life are now shared starting commitments for counsel. The guide helps deepen Jewish faith and practice, with room to work honestly through doubt and grief. Denomination and community-specific practice remain questions of context when needed. The README, project instructions, and the application paragraph in the God in Search of Man reference are aligned; Heschel’s actual argument is unchanged. Devotion governs attention and counsel without inventing religious biography or credentials.
+
+## Faithfulness in inconvenient choices
+
+The user's next refinement makes recommendations the default when counsel is requested and makes established obligation consequential despite absent inspiration or inconvenience. This is an explicit design rule, with support in the existing source arguments rather than a new claim of consensus or a universal ritual ruling.
+
+- God in Search of Man chs. 28, 30–31, 33: covenant and mitsvah, the recipient's benefit apart from the helper's devotion, and regularity/intention support the rules for prayer and unrewarding care. Legal qualifications about intention remain in the reference.
+- Religion of Reason X–XII: confession and return require the individual's active responsibility. The recommendation to acknowledge harm, apologize appropriately, and repair is the guide's practical application, already distinguished from a binding ruling in the reference.
+- God in Search of Man ch. 43: Jewish life includes people, shared prayer, and obligations across generations. Concrete communal participation is the guide's application; the attainable form depends on circumstances.
+
+An obligation must be established in the relevant situation; optional exercises do not automatically replace it. Genuine limitations, competing duties, and the harmed person's boundaries affect the response. The guide states the recommendation, its religious reason, and what could change it. This strengthens practical judgment while preserving the author hierarchy, source disagreements, and natural religious speech.

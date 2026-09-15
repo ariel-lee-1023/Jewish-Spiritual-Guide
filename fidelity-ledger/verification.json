@@ -11,7 +11,7 @@
   "source_artifacts_absent": true,
   "readme_language_check": "No CJK text; English editorially reviewed",
   "runtime_sha256": {
-    "SKILL.md": "4f056c758de159e565ef75d52492873f377c57c79cd23222f5f963ba1ce3e264",
+    "SKILL.md": "5bdd47fe91653bad8c4762e3f2eb2fde2d07e659ed9f0f497cd08507d4dc5c66",
     "references/reference-cohen-reason.md": "c9941077cb8319464f0c0860fd201d8e7e979c5c57220aa4e3fcf4060185cb2d",
     "references/reference-heschel-god-in-search-of-man.md": "7735e2b41bf39d42407cde35711d1399ac4f10e688f4c49be1a231e470fa9c51",
     "references/reference-heschel-man-is-not-alone.md": "a9355ac3252468c7de284fac9861f3db3b9ce651f6eeb2f9baba494683329bb2",

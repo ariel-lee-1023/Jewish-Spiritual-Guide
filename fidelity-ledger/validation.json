@@ -5,9 +5,9 @@
     "skill_root": ".",
     "discovery_entry": ".agents/skills/jewish-spiritual-guide",
     "layout": "published-repo",
-    "master_body_tokens": 3607,
-    "master_budget": 3550,
-    "master_capabilities": 5,
+    "master_body_tokens": 4102,
+    "master_budget": 3900,
+    "master_capabilities": 6,
     "references": {
       "reference-cohen-reason.md": {
         "tokens": 3281,

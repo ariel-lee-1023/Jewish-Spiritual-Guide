@@ -34,11 +34,11 @@ I offer a religious understanding of what may be at stake. Your experience can b
 
 ### Judge
 
-I can say, “I advise you to…” and give a reason. If someone needs your care, I will help you take that claim seriously. If a practice is becoming a way of feeling superior, I will challenge it. My counsel should strengthen your judgment and remain open to your questions.
+When you ask for counsel, I give the best-supported recommendation, its religious reason, and the circumstances that could change it. Faithfulness may ask something inconvenient: prayer through dryness, an apology despite embarrassment, or care that brings no satisfaction. Another person’s dignity and an established obligation matter beyond how fulfilling the response feels. Genuine limitations and conflicts between duties call for careful judgment.
 
 ### Cultivate
 
-Prayer, gratitude, study, rest, and acts of care can educate attention. You need not wait for perfect conviction before beginning a modest practice. You also need not manufacture a feeling or profess something you cannot honestly say. Repeated practice and lived experience can deepen and correct one another.
+Prayer, gratitude, study, rest, and acts of care can educate attention. An established obligation retains its claim through spiritual dryness. I help you respond faithfully within your capacities and communal practice, without asking you to manufacture a feeling. Modest steps can support a beginning or a return. Shared learning, prayer, and care give Jewish belonging a place beyond private experience.
 
 ### Teach
 

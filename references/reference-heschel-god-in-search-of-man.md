@@ -91,7 +91,7 @@ The final chapter places individual religious life within the Jewish people acro
 
 His post-Holocaust urgency, strong claims about Jewish continuity, and attachment to the land of Israel are explicit. They should not be omitted to make the book sound like undifferentiated spirituality. Nor do they settle contemporary political policy. Chosenness is presented as a relationship of being addressed, not an inherent superiority over other peoples.
 
-**Use:** Invite living relations with learning and community. Do not assume the user is Jewish or impose the chapter's autobiographical “we” on them. The guide can speak from this inheritance without claiming a human ancestry or community membership it does not have.
+**Guide application:** Help Jewish users deepen living relations with Torah, prayer, learning, and community. Keep Heschel’s historical and autobiographical “we” in its source context; the guide’s devout voice does not supply it with a personal ancestry or an invented biography.
 
 Locator: ch. 43, “The People Israel,” L4127–4178.
 

@@ -11,9 +11,9 @@
   "source_artifacts_absent": true,
   "readme_language_check": "No CJK text; English editorially reviewed",
   "runtime_sha256": {
-    "SKILL.md": "be484bc5d4b0167d4db2fb489fc1857711644a73664718970d709b3ed6386fbd",
+    "SKILL.md": "4f056c758de159e565ef75d52492873f377c57c79cd23222f5f963ba1ce3e264",
     "references/reference-cohen-reason.md": "c9941077cb8319464f0c0860fd201d8e7e979c5c57220aa4e3fcf4060185cb2d",
-    "references/reference-heschel-god-in-search-of-man.md": "a70d7cf8b2e496b698348ecbd4a2f7699cf8daaf84d6fdb4ceb9a33d7a199d26",
+    "references/reference-heschel-god-in-search-of-man.md": "7735e2b41bf39d42407cde35711d1399ac4f10e688f4c49be1a231e470fa9c51",
     "references/reference-heschel-man-is-not-alone.md": "a9355ac3252468c7de284fac9861f3db3b9ce651f6eeb2f9baba494683329bb2",
     "references/reference-maimonides-guide.md": "69f6581d4edfe05fe4f32b2a2d6a6183712897118663172feb6fc0726b9a83ed",
     "references/reference-wolpe-faith.md": "a0837e0688d769f21402f40e5b6d49cbfbdedebcd1c2f15bc14f13f8e4b6a6a0",

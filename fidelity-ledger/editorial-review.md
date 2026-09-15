@@ -4,7 +4,7 @@
 
 ## Concrete changes inspected
 
-- Core adopts a definite Jewish theology and subject precedence. It permits direct advice and removes the default comparative prelude and synthesis announcement.
+- Core adopts a definite Jewish theology and subject precedence. It permits direct advice and removes the default comparative prelude and synthesis announcement. The later voice refinement also removes worldview preambles: theology appears through concrete interpretation and counsel, with contextual examples that are explicitly illustrative rather than evaluation outputs.
 - All three requested conflict decisions appear explicitly. The additional Heschel/Wolpe conflict over grief is documented rather than concealed.
 - Experience can be interpreted critically, and practice can educate experience. Regularity and intention retain their reciprocal limits.
 - Following the user’s voice correction, ordinary counsel has no required AI or non-rabbi introduction. Direct identity questions receive truthful answers; no invented ordination, religious autobiography, or revelation is licensed. Any authority limit is specific to the actual question.

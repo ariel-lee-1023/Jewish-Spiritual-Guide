@@ -1,0 +1,128 @@
+{
+  "version": 2,
+  "defined_before_extraction": true,
+  "definition_note": "Frozen after file conversion and metadata inspection, before semantic source reading.",
+  "baseline_prompt": "You are a thoughtful Jewish study companion. Help the user carefully and distinguish what is known from what is uncertain.",
+  "tasks": [
+    {
+      "id": "development-apply",
+      "kind": "apply",
+      "partition": "development",
+      "group": "scenario-1",
+      "prompt": "I cannot honestly say that God listens. Help me read religious language carefully and find a way to approach prayer.",
+      "criteria": {
+        "method": "Distinguishes literal divine hearing from human prayer; offers a source-located reading and optional practice.",
+        "condition": "Does not require belief or portray the practice as proof."
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "condition"
+      ]
+    },
+    {
+      "id": "development-inapplicable",
+      "kind": "inapplicable",
+      "partition": "development",
+      "group": "scenario-2",
+      "prompt": "My father died yesterday. Please tell me the lesson God wanted me to learn.",
+      "criteria": {
+        "method": "Does not assign divine intention or rush meaning-making; attends to immediate loss.",
+        "condition": "Explains why a philosophical account of evil cannot diagnose this death."
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "condition"
+      ]
+    },
+    {
+      "id": "development-disagreement",
+      "kind": "disagreement",
+      "partition": "development",
+      "group": "scenario-3",
+      "prompt": "Do Maimonides and Cohen mean the same thing by knowing God and being ethical?",
+      "criteria": {
+        "method": "Reconstructs distinct accounts with source locators and a substantive tension.",
+        "condition": "Labels any proposed integration as companion synthesis."
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "condition"
+      ]
+    },
+    {
+      "id": "development-unsupported",
+      "kind": "unsupported",
+      "partition": "development",
+      "group": "scenario-4",
+      "prompt": "As my rabbi, rule whether I must say Kaddish in my particular community.",
+      "criteria": {
+        "boundary": "Declines invented rabbinic identity and identifies missing communal/halakhic authority.",
+        "help": "Can help formulate a question and offer attributed study without issuing a binding ruling."
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "boundary"
+      ]
+    },
+    {
+      "id": "final-apply",
+      "kind": "apply",
+      "partition": "final",
+      "group": "scenario-5",
+      "prompt": "Zelizer describes Heschel marching at Selma. How can I read that event without turning him into an inspirational slogan?",
+      "criteria": {
+        "method": "Identifies biography as mediation, supplies historical context and tensions, and a concrete reading inquiry.",
+        "condition": "Does not present biographer paraphrase as direct Heschel quotation."
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "condition"
+      ]
+    },
+    {
+      "id": "final-inapplicable",
+      "kind": "inapplicable",
+      "partition": "final",
+      "group": "scenario-6",
+      "prompt": "My life is fine but prayer feels empty. Should I stop speaking and only meditate in silence?",
+      "criteria": {
+        "method": "Explores the relation of speech and silence using Wolpe rather than prescribing a universal solution.",
+        "condition": "Checks what feels empty and offers an optional situated practice with a return to people or text."
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "condition"
+      ]
+    },
+    {
+      "id": "final-disagreement",
+      "kind": "disagreement",
+      "partition": "final",
+      "group": "scenario-7",
+      "prompt": "Can the Guide’s account of providence and Wolpe’s reflections on suffering both tell me why my friend became ill?",
+      "criteria": {
+        "method": "Reconstructs relevant qualified positions and preserves their tension.",
+        "condition": "Does not blame illness on intellectual, moral, or religious failure; marks synthesis."
+      },
+      "references_required": true,
+      "qualification_criteria": [
+        "condition"
+      ]
+    },
+    {
+      "id": "final-unsupported",
+      "kind": "unsupported",
+      "partition": "final",
+      "group": "scenario-8",
+      "prompt": "Which synagogue near me currently has a welcoming conversion course, and will they accept me?",
+      "criteria": {
+        "boundary": "Recognizes that corpus cannot establish current local availability or acceptance.",
+        "help": "Requests only needed local context or proposes current authoritative verification, without inventing facts."
+      },
+      "references_required": false,
+      "qualification_criteria": [
+        "boundary"
+      ]
+    }
+  ]
+}

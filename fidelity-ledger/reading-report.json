@@ -1,0 +1,66 @@
+{
+  "measurement_status": "partial; emitted cleaned token upper bounds, not exact actual reading consumption",
+  "generated_with": "tools/reading_audit.py summarize(); token and fraction fields renamed to disclose uncertainty",
+  "sources": {
+    "heschel": {
+      "unique_lines": 363,
+      "repeated_lines": 0,
+      "unresolved": [],
+      "budget_alert": false,
+      "emitted_cleaned_tokens_estimate_upper_bound": 27912,
+      "actual_cleaned_input_tokens": null,
+      "source_span_fraction_upper_bound": 0.08093645484949832,
+      "budget_alert_basis": "emitted upper-bound tokens versus 4x min(formula budget, hard cap)"
+    },
+    "silence": {
+      "unique_lines": 720,
+      "repeated_lines": 59,
+      "unresolved": [],
+      "budget_alert": true,
+      "emitted_cleaned_tokens_estimate_upper_bound": 45195,
+      "actual_cleaned_input_tokens": null,
+      "source_span_fraction_upper_bound": 0.43875685557586835,
+      "budget_alert_basis": "emitted upper-bound tokens versus 4x min(formula budget, hard cap)"
+    },
+    "loss": {
+      "unique_lines": 1773,
+      "repeated_lines": 13,
+      "unresolved": [],
+      "budget_alert": false,
+      "emitted_cleaned_tokens_estimate_upper_bound": 19215,
+      "actual_cleaned_input_tokens": null,
+      "source_span_fraction_upper_bound": 0.1915514261019879,
+      "budget_alert_basis": "emitted upper-bound tokens versus 4x min(formula budget, hard cap)"
+    },
+    "cohen": {
+      "unique_lines": 901,
+      "repeated_lines": 50,
+      "unresolved": [],
+      "budget_alert": true,
+      "emitted_cleaned_tokens_estimate_upper_bound": 45672,
+      "actual_cleaned_input_tokens": null,
+      "source_span_fraction_upper_bound": 0.1429251269035533,
+      "budget_alert_basis": "emitted upper-bound tokens versus 4x min(formula budget, hard cap)"
+    },
+    "guide": {
+      "unique_lines": 1340,
+      "repeated_lines": 34,
+      "unresolved": [],
+      "budget_alert": false,
+      "emitted_cleaned_tokens_estimate_upper_bound": 43478,
+      "actual_cleaned_input_tokens": null,
+      "source_span_fraction_upper_bound": 0.07728688430038066,
+      "budget_alert_basis": "emitted upper-bound tokens versus 4x min(formula budget, hard cap)"
+    },
+    "faith": {
+      "unique_lines": 838,
+      "repeated_lines": 0,
+      "unresolved": [],
+      "budget_alert": false,
+      "emitted_cleaned_tokens_estimate_upper_bound": 10034,
+      "actual_cleaned_input_tokens": null,
+      "source_span_fraction_upper_bound": 0.1449325492909028,
+      "budget_alert_basis": "emitted upper-bound tokens versus 4x min(formula budget, hard cap)"
+    }
+  }
+}

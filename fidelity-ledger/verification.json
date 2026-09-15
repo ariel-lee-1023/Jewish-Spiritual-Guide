@@ -1,0 +1,20 @@
+{
+  "status": "pass",
+  "errors": [],
+  "checked_local_markdown_links": 24,
+  "checked_source_locator_bounds": 109,
+  "locator_check_limit": "Bounds only; semantic claims reviewed editorially, not certified by this script",
+  "reference_count": 6,
+  "discovery_symlink_target": "../..",
+  "discovery_resolves_to_canonical_root": true,
+  "source_artifacts_absent": true,
+  "runtime_sha256": {
+    "SKILL.md": "c34ec8185f2e7dc8ac0f685b1e6181a1dcbadb670f441bf51a4759de54482147",
+    "references/reference-cohen-reason.md": "c9941077cb8319464f0c0860fd201d8e7e979c5c57220aa4e3fcf4060185cb2d",
+    "references/reference-maimonides-guide.md": "69f6581d4edfe05fe4f32b2a2d6a6183712897118663172feb6fc0726b9a83ed",
+    "references/reference-wolpe-faith.md": "a0837e0688d769f21402f40e5b6d49cbfbdedebcd1c2f15bc14f13f8e4b6a6a0",
+    "references/reference-wolpe-loss.md": "d4123d59dee9e90483b3cb764bfc249280fb65da19f1ed5cf2abe1d9b42435ab",
+    "references/reference-wolpe-speech-silence.md": "532697c996ccf66b9c1bac27a1af501918cedf53519fd957c438d951f8e0e1f3",
+    "references/reference-zelizer-heschel.md": "fe6af3e953e04e253c0e5f1ffdd4cdee66325cda7789e9671a6a856c98654d68"
+  }
+}

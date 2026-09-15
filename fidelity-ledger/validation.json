@@ -1,0 +1,63 @@
+{
+  "errors": [],
+  "warnings": [],
+  "facts": {
+    "skill_root": ".",
+    "discovery_entry": ".agents/skills/jewish-study-companion",
+    "layout": "published-repo",
+    "master_body_tokens": 3103,
+    "master_budget": 3750,
+    "master_capabilities": 6,
+    "references": {
+      "reference-cohen-reason.md": {
+        "tokens": 3281,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 22,
+        "budget": 10336
+      },
+      "reference-maimonides-guide.md": {
+        "tokens": 4098,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 178,
+        "budget": 23312
+      },
+      "reference-wolpe-faith.md": {
+        "tokens": 3228,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 8,
+        "budget": 7543
+      },
+      "reference-wolpe-loss.md": {
+        "tokens": 3223,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 7,
+        "budget": 7269
+      },
+      "reference-wolpe-speech-silence.md": {
+        "tokens": 3229,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 9,
+        "budget": 7800
+      },
+      "reference-zelizer-heschel.md": {
+        "tokens": 2972,
+        "cap": 14000,
+        "depth": "study",
+        "type": "text",
+        "sections": 7,
+        "budget": 7269
+      }
+    },
+    "books": 6
+  }
+}

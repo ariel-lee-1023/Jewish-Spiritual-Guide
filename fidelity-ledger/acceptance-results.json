@@ -1,0 +1,17 @@
+{
+  "status": "unrun",
+  "reason": "No configured independent model execution with a selected model/settings was available for the controlled three-condition experiment. No provider calls or independent grading performed.",
+  "suite_hash": "sha256:49de66c6711acb9465abf179390178d8cc75996e2fba19ecd57bbbf66ec3ec0b",
+  "content_hash": "sha256:ea7a4a2a04d8976856edcd55f6d20d706bb240685cca64504e31b47a73490712",
+  "conditions": [
+    "minimal-role baseline",
+    "core only",
+    "core plus relevant full references"
+  ],
+  "runs": [],
+  "provider_usage": null,
+  "criterion_scores": null,
+  "baseline_improvement": null,
+  "targeted_retrieval_experiment": "unrun",
+  "editorial_review": "editorial-review.md; same-author design inspection, not measured responses"
+}

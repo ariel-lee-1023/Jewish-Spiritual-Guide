@@ -144,3 +144,11 @@ fidelity-ledger/     # Maintainer evidence and validation
 ## License
 
 The [MIT license](LICENSE) covers the repository's original instructions, documentation, and distillations. The source books remain the property of their respective rights holders and are not redistributed here.
+
+### Scope
+
+This license applies only to the original skill instructions,
+paraphrased reference writing, and project materials in this repository.
+It does not grant rights in the underlying books, translations, quoted
+third-party language, names, or trademarks. Those remain subject to their
+respective rights. Full source books are not distributed here.
